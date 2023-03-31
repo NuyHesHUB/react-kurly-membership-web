@@ -1,0 +1,9 @@
+sehyeon.dothome.co.kr/myadmin
+데이터베이스 생성
+sehyeon
+
+테이블명
+kurly_member
+
+비밀번호
+...
